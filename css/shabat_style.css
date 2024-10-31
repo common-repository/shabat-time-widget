@@ -1,0 +1,16 @@
+.shabat_city {
+    display: inline-block;
+    width: 19%;
+}
+.city_name {
+    font-weight: bold;
+    padding-bottom: 6px;
+}
+.shabat_bold{
+    font-weight: bold;
+}
+.parash {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
